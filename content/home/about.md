@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Plant Biology"
   institution = "Pennsylvania State University"
-  #year = current
+  year = "expected 2020"
 
 
 [[education.courses]]

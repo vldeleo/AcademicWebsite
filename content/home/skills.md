@@ -34,6 +34,11 @@ weight = 21
   #description = "70%"  
   
 [[feature]]
+  icon = "flask"
+  icon_pack = "fas"
+  name = "Molecular Biology"
+  
+[[feature]]
   icon = "pagelines"
   icon_pack = "fab"
   name = "Growing Plants"

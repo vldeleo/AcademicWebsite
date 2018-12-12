@@ -1,7 +1,7 @@
 +++
 title = "Effects of two centuries of global environmental variation on phenology and physiology of Arabidopsis thaliana"
 date = 2018-09-23T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["VL DeLeo", "DNL Menge", "EM Hanks", "TE Juenger", "JR Lasky"]

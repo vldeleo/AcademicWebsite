@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Herbaria on </title>
+    <link>/tags/herbaria/</link>
+    <description>Recent content in Herbaria on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/herbaria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phenotypic Change Documented in Herbaria Records</title>
+      <link>/project/herbarium_phenotypes/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/herbarium_phenotypes/</guid>
+      <description>Arabidopsis has long served as a model for basic plant biology questions. We want to use our deep understanding of Arabidopsis biology and genetics to better understand how plants function in their environment and in response to natural conditions. We modeled changes in phenotypes (flowering date, C:N, delta15N, delta13C) over time and in response to climate variation to study how Arabidopsis populations have reacted to environmental pressures over the last 200 years.</description>
+    </item>
+    
+  </channel>
+</rss>

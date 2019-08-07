@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Phenology</title>
+      <link>/project/phenology/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/phenology/</guid>
+      <description>Arabidopsis has long served as a model for basic plant biology questions. We want to use our deep understanding of Arabidopsis biology and genetics to better understand how plants function in their environment and in response to natural conditions. We compare the great natural variation in phenological traits (dormancy, flowering time) across Arabidopsis&amp;rsquo; range to dates of collection of herbarium samples to make sense of the factors controlling life history variation in the wild.</description>
+    </item>
+    
+    <item>
+      <title>Phenotypic Change Documented in Herbaria Records</title>
+      <link>/project/herbarium_phenotypes/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/herbarium_phenotypes/</guid>
+      <description>Arabidopsis has long served as a model for basic plant biology questions. We want to use our deep understanding of Arabidopsis biology and genetics to better understand how plants function in their environment and in response to natural conditions. We modeled changes in phenotypes (flowering date, C:N, delta15N, delta13C) over time and in response to climate variation to study how Arabidopsis populations have reacted to environmental pressures over the last 200 years.</description>
+    </item>
     
     <item>
       <title>External Project</title>
@@ -19,15 +37,6 @@
       
       <guid>/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/internal-project/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
   </channel>

@@ -22,11 +22,11 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Arabidopsis</title>
+      <link>/tags/arabidopsis/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/arabidopsis/</guid>
       <description></description>
     </item>
     
@@ -36,6 +36,33 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAM</title>
+      <link>/tags/gam/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/gam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herbaria</title>
+      <link>/tags/herbaria/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/herbaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenology</title>
+      <link>/tags/phenology/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/phenology/</guid>
       <description></description>
     </item>
     

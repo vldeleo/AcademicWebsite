@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Victoria DeLeo"
-  role = "PhD Student in Plant Biology"
+  role = "PhD Candidate in Plant Biology"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -317,20 +317,25 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 5
 
 #[[menu.main]]
 #  name = "Tutorials"
 #  url = "/tutorial/"
 #  weight = 5
+
+[[menu.main]]
+  name = "Talks"
+  url = "/talk/"
+  weight = 3
 
 [[menu.main]]
   name = "Contact"

@@ -46,7 +46,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Evolution", "Introns", "Monocots"]
 
 # Links (optional).
 url_pdf = "https://bmcevolbiol.biomedcentral.com/track/pdf/10.1186/s12862-017-1077-x"

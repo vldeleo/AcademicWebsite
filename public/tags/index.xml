@@ -31,11 +31,29 @@
     </item>
     
     <item>
+      <title>Climate Change</title>
+      <link>/tags/climate-change/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Demo</title>
       <link>/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution</title>
+      <link>/tags/evolution/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/evolution/</guid>
       <description></description>
     </item>
     
@@ -54,6 +72,24 @@
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>/tags/herbaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introns</title>
+      <link>/tags/introns/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/introns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monocots</title>
+      <link>/tags/monocots/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/monocots/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dispersal on </title>
+    <link>/tags/dispersal/</link>
+    <description>Recent content in Dispersal on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/dispersal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frugivore Dispersal and Landscape Genetics</title>
+      <link>/project/frugivore_behavior/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/frugivore_behavior/</guid>
+      <description>The influence frugivores can have on the adaption of fruit sources goes beyond selection due to feeding preferences. The behavior of dispersers can affect the direction and strength of gene flow across a landscape. I am interested in how the colonial nesting behavior of a pigeon influence the distribution of genetic diversity of preferred food trees. The White-Crowned Pigeon (Patagioenas leucocephala) is a large bodied Columbid native to the Caribbean and capable of traveling long distances over water during seasonal migration.</description>
+    </item>
+    
+  </channel>
+</rss>

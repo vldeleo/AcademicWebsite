@@ -122,7 +122,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "@victorialdeleo"
+  twitter = "victorialdeleo"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -177,7 +177,7 @@ enableGitInfo = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Privacy pack
   #   Show a cookie consent message to visitors

@@ -11,6 +11,17 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Frugivore Dispersal and Landscape Genetics</title>
+      <link>/project/frugivore_behavior/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/frugivore_behavior/</guid>
+      <description>&lt;p&gt;The influence frugivores can have on the adaption of fruit sources goes beyond selection due to feeding preferences. The behavior of dispersers can affect the direction and strength of gene flow across a landscape. I am interested in how the colonial nesting behavior of a pigeon influence the distribution of genetic diversity of preferred food trees.
+The White-Crowned Pigeon (Patagioenas leucocephala) is a large bodied Columbid native to the Caribbean and capable of traveling long distances over water during seasonal migration. During the nesting season, White-Crowned Pigeons can form large nesting colonies with hundreds of nests. Parque Jaragua in the Dominican Republic is home to one such perennial nesting colony.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Does genetic variation explain phenology patterns in natural populations?</title>
       <link>/talk/evolution-2019/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
@@ -30,7 +41,7 @@
     </item>
     
     <item>
-      <title>Phenotypic Change Documented in Herbaria Records</title>
+      <title>Phenotypic Change in Herbaria Records</title>
       <link>/project/herbarium_phenotypes/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
       

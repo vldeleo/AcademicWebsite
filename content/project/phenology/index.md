@@ -6,7 +6,7 @@ title = "Phenology"
 date = 2019-08-06T00:00:00
 
 # Project summary to display on homepage.
-summary = "Work comparing Arabidopsis phenology in the lab to herbarium collections."
+summary = "Comparing Arabidopsis phenology in the lab to herbarium collections."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Phenology", "Arabidopsis"]`
@@ -26,7 +26,7 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=r7fwhjabBw4"
+#url_video = "https://www.youtube.com/watch?v=r7fwhjabBw4"
 url_code = ""
 
 # Custom links (optional).
@@ -37,7 +37,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by rawpixel on Unsplash"
+  caption = "Arabidopsis germinating in lab"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

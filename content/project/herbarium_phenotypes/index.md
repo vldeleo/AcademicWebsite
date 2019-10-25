@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Phenotypic Change Documented in Herbaria Records"
+title = "Phenotypic Change in Herbaria Records"
 
 # Date this page was created.
 date = 2019-08-06T00:00:00
@@ -37,7 +37,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image from manuscript"
+  caption = "Image from accession used in project"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

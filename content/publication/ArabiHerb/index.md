@@ -26,7 +26,7 @@ abstract = "Intraspecific diversity arises from genetic and plastic responses to
 #abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

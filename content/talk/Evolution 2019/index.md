@@ -12,7 +12,7 @@ draft = false
 authors = []
 
 # Abstract and optional shortened version.
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+#abstract = ""
 abstract_short = "A talk given at Evolution 2019 about natural variation in Arabidopsis phenology."
 
 # Name of event and optional event URL.

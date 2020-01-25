@@ -1,6 +1,6 @@
 +++
 title = "Effects of two centuries of global environmental variation on phenology and physiology of Arabidopsis thaliana"
-date = 2018-09-23T00:00:00
+date = 2019-09-23T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["VL DeLeo", "DNL Menge", "EM Hanks", "TE Juenger", "JR Lasky"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "biorxiv"
+publication = "Global Change Biology"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
@@ -49,7 +49,7 @@ projects = []
 tags = ["Arabidopsis", "Climate Change"]
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.14880"
 url_preprint = "https://www.biorxiv.org/content/early/2018/09/23/424242.full.pdf+html"
 #url_code = ""
 #url_dataset = ""
@@ -64,7 +64,7 @@ url_preprint = "https://www.biorxiv.org/content/early/2018/09/23/424242.full.pdf
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "doi.org/10.1101/424242"
+doi = "doi.org/10.1111/gcb.14880"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -79,5 +79,3 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

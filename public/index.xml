@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Genomics of sorghum local adaptation to a parasitic plant</title>
+      <link>/publication/striga/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/striga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intron Loss</title>
+      <link>/project/intron-loss/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/intron-loss/</guid>
+      <description>&lt;p&gt;Introns are part of the dark matter of the genome- DNA sequence with an unknown purpose. Adding to the mystery, introns are sometimes lost or gained from the same gene in different lineages. We discovered that ABCB1 (an agronomically important dwarfing gene in sorghum) showed surprisingly high variation in introns among closely related species in the grass family. We extended our search to more distantly related species to get a better idea of how introns in this gene behaved through time and what features of the gene might contribute to intron instability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Frugivore Dispersal and Landscape Genetics</title>
       <link>/project/frugivore_behavior/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 -0400</pubDate>
@@ -18,6 +37,39 @@
       <guid>/project/frugivore_behavior/</guid>
       <description>&lt;p&gt;The influence frugivores can have on the adaption of fruit sources goes beyond selection due to feeding preferences. The behavior of dispersers can affect the direction and strength of gene flow across a landscape. I am interested in how the colonial nesting behavior of a pigeon influence the distribution of genetic diversity of preferred food trees.
 The White-Crowned Pigeon (Patagioenas leucocephala) is a large bodied Columbid native to the Caribbean and capable of traveling long distances over water during seasonal migration. During the nesting season, White-Crowned Pigeons can form large nesting colonies with hundreds of nests. Parque Jaragua in the Dominican Republic is home to one such perennial nesting colony.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of two centuries of global environmental variation on phenology and physiology of Arabidopsis thaliana</title>
+      <link>/publication/arabiherb/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/arabiherb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>200 years of phenotypic change in Arabidopsis thaliana</title>
+      <link>/talk/np-next-gen-2019/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/np-next-gen-2019/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
@@ -47,16 +99,6 @@ The White-Crowned Pigeon (Patagioenas leucocephala) is a large bodied Columbid n
       
       <guid>/project/herbarium_phenotypes/</guid>
       <description>&lt;p&gt;Arabidopsis has long served as a model for basic plant biology questions. We want to use our deep understanding of Arabidopsis biology and genetics to better understand how plants function in their environment and in response to natural conditions. We modeled changes in phenotypes (flowering date, C:N, delta15N, delta13C) over time and in response to climate variation to study how Arabidopsis populations have reacted to environmental pressures over the last 200 years.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Effects of two centuries of global environmental variation on phenology and physiology of Arabidopsis thaliana</title>
-      <link>/publication/arabiherb/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/arabiherb/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
@@ -528,30 +570,6 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Does genetic variation explain phenology patterns in natural populations?</title>
-      <link>/talk/exampletalkformat2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/exampletalkformat2/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

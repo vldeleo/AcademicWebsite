@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Climate Change on </title>
+    <title>Climate change on </title>
     <link>/tags/climate-change/</link>
-    <description>Recent content in Climate Change on </description>
+    <description>Recent content in Climate change on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 23 Sep 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Effects of two centuries of global environmental variation on phenology and physiology of Arabidopsis thaliana</title>
-      <link>/publication/arabiherb/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 -0400</pubDate>
+      <title>200 years of phenotypic change in Arabidopsis thaliana</title>
+      <link>/talk/np-next-gen-2019/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/arabiherb/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/talk/np-next-gen-2019/</guid>
+      <description>Click on the Slides button above to view the built-in slides feature.
+ Slides can be added in a few ways:
+ Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
     </item>
     
   </channel>

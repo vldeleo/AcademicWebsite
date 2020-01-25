@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intron Loss</title>
+      <link>/project/intron-loss/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/intron-loss/</guid>
+      <description>Introns are part of the dark matter of the genome- DNA sequence with an unknown purpose. Adding to the mystery, introns are sometimes lost or gained from the same gene in different lineages. We discovered that ABCB1 (an agronomically important dwarfing gene in sorghum) showed surprisingly high variation in introns among closely related species in the grass family. We extended our search to more distantly related species to get a better idea of how introns in this gene behaved through time and what features of the gene might contribute to intron instability.</description>
+    </item>
     
     <item>
       <title>Frugivore Dispersal and Landscape Genetics</title>

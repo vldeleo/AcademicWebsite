@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>200 years of phenotypic change in Arabidopsis thaliana</title>
+      <link>/talk/np-next-gen-2019/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/np-next-gen-2019/</guid>
+      <description>Click on the Slides button above to view the built-in slides feature.
+ Slides can be added in a few ways:
+ Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+    </item>
+    
+    <item>
       <title>Does genetic variation explain phenology patterns in natural populations?</title>
       <link>/talk/evolution-2019/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
@@ -37,17 +48,6 @@
       
       <guid>/project/herbarium_phenotypes/</guid>
       <description>Arabidopsis has long served as a model for basic plant biology questions. We want to use our deep understanding of Arabidopsis biology and genetics to better understand how plants function in their environment and in response to natural conditions. We modeled changes in phenotypes (flowering date, C:N, delta15N, delta13C) over time and in response to climate variation to study how Arabidopsis populations have reacted to environmental pressures over the last 200 years.</description>
-    </item>
-    
-    <item>
-      <title>Does genetic variation explain phenology patterns in natural populations?</title>
-      <link>/talk/exampletalkformat2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/exampletalkformat2/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways:
- Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
     </item>
     
   </channel>

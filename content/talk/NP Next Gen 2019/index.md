@@ -1,6 +1,6 @@
 +++
-title = "Does genetic variation explain phenology patterns in natural populations?"
-#date = 2019-08-06T00:00:00  # Schedule page publish date.
+title = "200 years of phenotypic change in Arabidopsis thaliana"
+date = 2019-08-06T00:00:00  # Schedule page publish date.
 draft = true
 
 # Talk start and end times.
@@ -12,15 +12,15 @@ draft = true
 authors = []
 
 # Abstract and optional shortened version.
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-abstract_short = "A talk given at Evolution 2019 about natural variation in Arabidopsis phenology."
+#abstract = ""
+abstract_short = "A talk given at New Phytologist next generation scientists 2019 about how Arabidopsis phenotypes have changed through time and in response to climate variation."
 
 # Name of event and optional event URL.
-event = "Evolution 2019"
-event_url = "https://www.evolutionmeetings.org/evolution-2019---providence.html"
+event = "New Phytologist next generation scientists 2019"
+event_url = "https://www.newphytologist.org/nextgenevents/2019"
 
 # Location of event.
-location = "Providence, RI"
+location = "Dublin, Ireland"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,11 +31,11 @@ selected = false
 #   E.g. `projects = ["phenology"]` references 
 #   `content/project/phenology/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["phenology"]
+projects = ["Herbarium"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Phenology", "Arabidopsis"]
+tags = ["Phenology", "Arabidopsis", "Climate change", "Phenotype"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,7 +58,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Evolution 2019 Talk"
+  caption = "NP Next Gen Talk"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

@@ -24,7 +24,7 @@
     <item>
       <title>Arabidopsis</title>
       <link>/tags/arabidopsis/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 -0400</pubDate>
       
       <guid>/tags/arabidopsis/</guid>
       <description></description>
@@ -42,7 +42,16 @@
     <item>
       <title>Climate Change</title>
       <link>/tags/climate-change/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate change</title>
+      <link>/tags/climate-change/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>/tags/climate-change/</guid>
       <description></description>
@@ -96,7 +105,7 @@
     <item>
       <title>Introns</title>
       <link>/tags/introns/</link>
-      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 -0500</pubDate>
       
       <guid>/tags/introns/</guid>
       <description></description>
@@ -114,9 +123,18 @@
     <item>
       <title>Monocots</title>
       <link>/tags/monocots/</link>
-      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 -0500</pubDate>
       
       <guid>/tags/monocots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parasitism</title>
+      <link>/tags/parasitism/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/parasitism/</guid>
       <description></description>
     </item>
     
@@ -126,6 +144,24 @@
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>/tags/phenology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotype</title>
+      <link>/tags/phenotype/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/phenotype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogeny</title>
+      <link>/tags/phylogeny/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/phylogeny/</guid>
       <description></description>
     </item>
     
@@ -153,6 +189,24 @@
       <pubDate>Thu, 24 Oct 2019 00:00:00 -0400</pubDate>
       
       <guid>/tags/radseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Striga</title>
+      <link>/tags/striga/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/striga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tradeoffs</title>
+      <link>/tags/tradeoffs/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/tradeoffs/</guid>
       <description></description>
     </item>
     

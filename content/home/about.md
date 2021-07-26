@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Plant Biology"
   institution = "Pennsylvania State University"
-  year = "expected 2020"
+  year = "2020"
 
 
 [[education.courses]]
@@ -32,4 +32,6 @@ weight = 5
 
 # Biography
 
-Victoria DeLeo is a PhD student in the Plant Biology program at Penn State University. Her research in the Lasky lab examines patterns of adaptation and geneflow in tropical dry forest trees. Her other projects look at phenology and phenotypic change in Arabidopsis across its native range.
+Victoria DeLeo is a Postdoc in the Buerkle lab at the University of Wyoming through the Modelscape project. She is currently working on competing sparse models on simulated data and applying modeling methods to understanding genetic and phenotypic diversity in plants.
+
+She received her PhD from Penn State University. She studies patterns of adaptation and geneflow in tropical dry forest trees as well as phenology and phenotypic change in Arabidopsis across its native range.

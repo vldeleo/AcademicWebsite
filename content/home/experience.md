@@ -27,6 +27,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
   """
++++
 
 [[experience]]
   title = "Graduate Assistant"

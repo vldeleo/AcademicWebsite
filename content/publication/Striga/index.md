@@ -15,14 +15,14 @@ authors = ["ES Bellis", "EA Kelly", "CM Lorts", "H Gao", "VL DeLeo", "G Rouhan",
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "bioRxiv"
+publication = "PNAS"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = "Host-parasite coevolution can maintain high levels of genetic diversity in traits involved in species interactions. In many systems, host traits exploited by parasites are constrained by use in other functions, leading to complex selective pressures across space and time. Here, we study genome-wide variation in the staple crop Sorghum bicolor (L.) Moench and its association with the parasitic weed Striga hermonthica (Delile) Benth., a major constraint to food security in Africa. We hypothesize that geographic selection mosaics across gradients of parasite occurrence maintain genetic diversity in sorghum landrace resistance. Suggesting a role in local adaptation to parasite pressure, multiple independent loss-of-function alleles at sorghum LOW GERMINATION STIMULANT 1 (LGS1) are broadly distributed among African landraces and geographically associated with S. hermonthica occurrence. However, low frequency of these alleles within S. hermonthica-prone regions and their absence elsewhere implicate potential tradeoffs restricting their fixation. LGS1 is thought to cause resistance by changing stereochemistry of strigolactones, hormones that control plant architecture and belowground signaling to mycorrhizae and are required to stimulate parasite germination. Consistent with tradeoffs, we find signatures of balancing selection surrounding LGS1 and other candidates from analysis of genome-wide associations with parasite distribution. Experiments with CRISPR-Cas9 edited sorghum further indicate the benefit of LGS1-mediated resistance strongly depends on parasite genotype and abiotic environment and comes at the cost of reduced photosystem gene expression. Our study demonstrates long-term maintenance of diversity in host resistance genes across smallholder agroecosystems, providing a valuable comparison to both industrial farming systems and natural communities."
+abstract = "Host–parasite coevolution can maintain high levels of genetic diversity in traits involved in species interactions. In many systems, host traits exploited by parasites are constrained by use in other functions, leading to complex selective pressures across space and time. Here, we study genome-wide variation in the staple crop Sorghum bicolor (L.) Moench and its association with the parasitic weed Striga hermonthica (Delile) Benth., a major constraint to food security in Africa. We hypothesize that geographic selection mosaics across gradients of parasite occurrence maintain genetic diversity in sorghum landrace resistance. Suggesting a role in local adaptation to parasite pressure, multiple independent loss-of-function alleles at sorghum LOW GERMINATION STIMULANT 1 (LGS1) are broadly distributed among African landraces and geographically associated with S. hermonthica occurrence. However, low frequency of these alleles within S. hermonthica-prone regions and their absence elsewhere implicate potential trade-offs restricting their fixation. LGS1 is thought to cause resistance by changing stereochemistry of strigolactones, hormones that control plant architecture and below-ground signaling to mycorrhizae and are required to stimulate parasite germination. Consistent with trade-offs, we find signatures of balancing selection surrounding LGS1 and other candidates from analysis of genome-wide associations with parasite distribution. Experiments with CRISPR–Cas9-edited sorghum further indicate that the benefit of LGS1-mediated resistance strongly depends on parasite genotype and abiotic environment and comes at the cost of reduced photosystem gene expression. Our study demonstrates long-term maintenance of diversity in host resistance genes across smallholder agroecosystems, providing a valuable comparison to both industrial farming systems and natural communities."
 #abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ projects = []
 tags = ["Striga", "Parasitism", "Tradeoffs"]
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "https://www.pnas.org/content/pnas/117/8/4243.full.pdf"
 url_preprint = "https://www.biorxiv.org/content/10.1101/633529v2"
 #url_code = ""
 #url_dataset = ""
@@ -64,18 +64,18 @@ url_preprint = "https://www.biorxiv.org/content/10.1101/633529v2"
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "www.pnas.org/cgi/doi/10.1073/pnas.1908707117"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#[image]
+[image]
   # Caption (optional)
-  #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption = "Figure 1 from manuscript"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Left"
 +++

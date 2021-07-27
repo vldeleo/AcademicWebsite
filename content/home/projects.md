@@ -40,13 +40,21 @@ filter_default = 0
   name = "All"
   tag = "*"
 
-#[[filter]]
-#  name = ""
-#  tag = ""
+[[filter]]
+  name = "Intron Loss"
+  tag = "intron"
 
-#[[filter]]
-#  name = "Other"
-#  tag = "Demo"
+[[filter]]
+  name = "Herbarium Phenotypes"
+  tag = "herbarium"
+  
+[[filter]]
+  name = "Arabidopsis Phenology"
+  tag = "phenology"
+
+[[filter]]
+  name = "Pigeon Dispersal"
+  tag = "seed dispersal"
 
 +++
 

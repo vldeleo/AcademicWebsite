@@ -34,7 +34,7 @@ selected = true
 #   E.g. `projects = ["Arabidopsis"]` references 
 #   `content/project/Arabidopsis/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["herbarium_phenotypes"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

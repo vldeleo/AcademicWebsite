@@ -35,7 +35,7 @@ date_format = "January 2006"
   company_url = ""
 # location = "State College, PA"
   date_start = "2015-08-15"
-  date_end = "2021-12-15"
+  date_end = "2020-12-15"
   description = """
   """
 

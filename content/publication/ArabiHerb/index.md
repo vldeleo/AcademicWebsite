@@ -19,7 +19,7 @@ publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Global Change Biology"
-#publication_short = "In *SITIS*"
+#publication_short = "In GCB"
 
 # Abstract and optional shortened version.
 abstract = "Intraspecific diversity arises from genetic and plastic responses to the environment. Immense natural history collections allow comprehensive surveys of intraspecific diversity across a species range through centuries of environmental variation. Using 216 years of Arabidopsis thaliana samples, we tested if traits exhibit coordinated variation and hypothesized adaptive responses to climate gradients. We used spatially varying coefficient models to quantify region-specific trends. Traits generally showed little coordination. However, C:N was low for summer versus spring-collected plants, consistent with a life history-physiology axis from slow-growing winter annuals to fast-growing spring/summer annuals. Collection date was later in more recent years in many regions, possibly because these populations shifted toward more spring (as opposed to fall) germination. δ15N decreased over time across most of the range, consistent with predictions based on anthropogenic changes. Regional heterogeneity in phenotype trends indicates complex responses to spatial and temporal climate shifts potentially arising from variation in local adaptation and plasticity."
